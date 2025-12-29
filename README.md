@@ -9,7 +9,7 @@ Each service has its own dedicated page explaining concepts, features, and real-
 
 ### Amazon EC2
 Virtual servers in the cloud for scalable compute  
-[Know More →](aws/ec2)
+[Know More →](aws/ec2.md)
 
 ### Amazon S3
 Highly durable object storage service  
