@@ -1,60 +1,62 @@
-# AWS Services – Learning Portfolio ☁️
+# ☁️ AWS Services – Learning Portfolio
 
-This repository documents my hands-on learning and understanding of core **AWS services**.
-Each service has its own dedicated page explaining concepts, features, and real-world use cases.
-
----
-
-## 🔧 AWS Services Covered
-
-### Amazon EC2
-Virtual servers in the cloud for scalable compute  
-[Know More →](aws/ec2.md)
-
-### Amazon S3
-Highly durable object storage service  
-[Know More →](aws/s3)
-
-### Amazon RDS
-Managed relational database service  
-[Know More →](aws/rds)
-
-### Amazon VPC
-Virtual private cloud for network isolation  
-[Know More →](aws/vpc)
-
-### AWS Lambda
-Serverless compute for event-driven applications  
-[Know More →](aws/lambda)
-
-### Amazon IAM
-Identity and access management for AWS resources  
-[Know More →](aws/iam)
-
-### Amazon CloudFront
-Content delivery network (CDN)  
-[Know More →](aws/cloudfront)
-
-### Amazon CloudWatch
-Monitoring and observability service  
-[Know More →](aws/cloudwatch)
+A structured documentation-style portfolio showcasing my **hands-on learning of core AWS services**.  
+Each service includes clear explanations, key features, and practical use cases—written for clarity, not buzzwords.
 
 ---
 
-## 🎯 Purpose of This Project
+## 🚀 What You’ll Find Here
 
-- Strengthen AWS fundamentals  
-- Build a structured cloud portfolio  
-- Demonstrate real understanding, not just theory  
-- Maintain clear technical documentation  
+- Core AWS services explained simply  
+- Real-world use cases and integrations  
+- Clean, readable documentation  
+- Portfolio-ready cloud knowledge  
 
 ---
 
-## 📌 Author
+## 🧩 AWS Services Covered
+
+| Service | Description | Link |
+|------|------------|------|
+| **EC2** | Scalable virtual servers | [Explore →](aws/ec2.md) |
+| **S3** | Durable object storage | [Explore →](aws/s3.md) |
+| **RDS** | Managed relational databases | [Explore →](aws/rds.md) |
+| **VPC** | Isolated cloud networking | [Explore →](aws/vpc.md) |
+| **Lambda** | Serverless compute | [Explore →](aws/lambda.md) |
+| **IAM** | Identity & access management | [Explore →](aws/iam.md) |
+| **CloudFront** | Global CDN | [Explore →](aws/cloudfront.md) |
+| **CloudWatch** | Monitoring & logs | [Explore →](aws/cloudwatch.md) |
+
+---
+
+## 🎯 Why This Project Exists
+
+This portfolio was created to:
+
+- Build strong AWS fundamentals  
+- Practice cloud documentation skills  
+- Demonstrate service-level understanding  
+- Create a reference for future projects  
+
+---
+
+## 🛠️ How This Portfolio Is Built
+
+- Markdown-based documentation  
+- Hosted using **GitHub Pages**  
+- Clean file structure with service separation  
+- Lightweight, fast, and scalable  
+
+---
+
+## 👤 About Me
 
 **Sahil**  
 Engineering Student | Cloud & DevOps Enthusiast  
 
+📌 Interests: AWS, DevOps, CI/CD, Cloud Security  
+📌 Focus: Learning by building and documenting  
+
 ---
 
-> “Documentation is a form of engineering.”
+> *“Good documentation is a sign of a thoughtful engineer.”*
